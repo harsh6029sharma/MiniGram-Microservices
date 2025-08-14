@@ -137,14 +137,14 @@ npm test
 ## 🔐 Security
 
 * JWT for authentication
-* Environment variables managed in `.env` or `.env.example`
+* Environment variables managed in `.env` 
 * Docker containers isolate each service
 
 ---
-**Thank You** 
 ## 📞 Contact
 
 Harsh Sharma – [harsh@example.com](mailto:harshsharmahs.798@gmail.com)
 
 ---
+**Thank You** 
 
