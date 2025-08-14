@@ -141,10 +141,5 @@ npm test
 * Docker containers isolate each service
 
 ---
-## 📞 Contact
-
-Harsh Sharma – [harsh@example.com](mailto:harshsharmahs.798@gmail.com)
-
----
 **Thank You** 
 
